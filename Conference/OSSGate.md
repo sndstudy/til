@@ -40,7 +40,7 @@ https://oss-gate.doorkeeper.jp/ より引用
 
 - 選定したOSS
     - Hyperapp
-        - JavaScriptのビューライブラリ
+        - JavaScriptのビューライブラリ
         - Qiitaの開発者が作成したライブラリ
 - ドキュメントを見ながら動かしていく
     - 作業したことは全てメモする
