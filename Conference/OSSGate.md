@@ -62,11 +62,11 @@ https://oss-gate.doorkeeper.jp/ より引用
     - pull request
         - 明確な間違いを修正
             - 例:typo
-- まずは日本語で提案や修正内容を書いていく
+- まずは日本語で提案や修正内容を書いていく
     - Google翻訳で英語に直す
         - 文法的におかしいところがあれば直す
 - 今回の実績
-    - issue 1件
+    - issue 1件
     - pull request 1件
 
 ### 2回目の振り返り
@@ -76,13 +76,13 @@ https://oss-gate.doorkeeper.jp/ より引用
 
 ### アンケートの記入
 
-- YAML形式のアンケートに記入
+- YAML形式のアンケートに記入
     - OSSGateのGitHubリポジトリにpull request
 - 参加者内で共有
 
 ## 所感
 
-- 一人ではなかなかOSS開発には踏み出せなかった
+- 一人ではなかなかOSS開発には踏み出せなかった
     - サポータの協力があって今回できたようなもの
 - 意外とOSS開発の敷居は低いと感じた
     - ドキュメントのリンク切れを修正してpull requestを出すだけでも良い
@@ -95,7 +95,7 @@ https://oss-gate.doorkeeper.jp/ より引用
 
 - OSSGate Doorkeeper
     - https://oss-gate.doorkeeper.jp/
-- OSSGateワークショップのスライド
+- OSSGateワークショップのスライド
     - https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/
 - OSSのライセンス一覧
     - https://opensource.org/licenses/alphabetical
