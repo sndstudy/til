@@ -10,10 +10,22 @@
 
 - Gitのコマンドなどをメモ
 
+## HyperApp
+
+- HyperAppの使い方についてメモ
+
 ## Java
 
 - WebComponentDeveloper
     - Webコンポーネントディベロッパー勉強時のメモ
+
+## LPIC
+
+- 試験勉強メモ
+
+## Node.js
+
+- Node.jsに関するメモ
 
 ## Vim
 
