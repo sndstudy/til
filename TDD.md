@@ -361,10 +361,13 @@
 
 - Command
     - 処理の実行をただのメッセージではなくオブジェクトで表現
+    - JavaのRunnableインタフェースが典型的なCommandパターン
 - Value Object
     - 一度作成されたら絶対に値が変わらないオブジェクトを作り、別名参照問題を防ぐ
 - Null Object
     - 特殊な状況をオブジェクトで表現
+    - Nullを呼び出し元でチェックしないように代わりとなるオブジェクトを返す
+    - JavaのOptionalが良い例
 - Template Method
     - 処理順序を抽象メソッドの並びで表現し、個別の処理は継承で実現
 - Pluggable Object
