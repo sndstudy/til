@@ -34,3 +34,14 @@ query {
     - オブジェクトが作成された日時を識別します。
     - typeはDateTime
          - An ISO-8601 encoded UTC date string.
+
+## JavaScriptからAPI叩く時に参考にしたサイト
+
+- https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
+- https://developer.github.com/v4/guides/forming-calls/#the-graphql-endpoint
+- https://developer.github.com/v4/guides/using-the-explorer/
+- https://developer.github.com/v3/#authentication
+- https://qiita.com/bananaumai/items/2cd6d48df20b378a44f5
+- https://qiita.com/uasi/items/cfb60588daa18c2ec6f5
+- https://developer.mozilla.org/ja/docs/Web/HTTP/Headers
+
