@@ -1,4 +1,4 @@
-# MANABIYA 2018 2day
+# MANABIYA 2018 Day2
 
 ## 12:10 2018年のWeb標準 泉水 翔吾
 

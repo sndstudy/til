@@ -1,4 +1,4 @@
-# MANABIYA 2018 1day
+# MANABIYA 2018 Day1
 
 ## 11:15 React Nativeコミュニティの現在と未来 中田 一成
 
