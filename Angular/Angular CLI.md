@@ -13,3 +13,8 @@
 - `ng generate component [コンポーネント名]`
     - コンポーネントの雛型が作成される
     - `app.module.ts`の`declarations`に追記される
+
+## 参考サイト
+
+- https://cli.angular.io/
+    - Angular CLI 公式
