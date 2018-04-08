@@ -1,3 +1,11 @@
+## Angular
+
+- Angularについて
+
+## AWS
+
+- AWSについて
+
 ## BooksMemo
 
 - 読みたい本、気になる本をメモ
@@ -6,9 +14,21 @@
 
 - 技術カンファレンスに参加した際のメモ
 
+## Docker
+
+- Dockerについて
+
+## etc
+
+- その他いろいろ
+
 ## Git
 
 - Gitのコマンドなどをメモ
+
+## GraphQL
+
+- GraphQLについて
 
 ## HyperApp
 
@@ -27,6 +47,14 @@
 
 - Node.jsに関するメモ
 
+## Redmine
+
+- Redmineについて
+
 ## Vim
 
 - Vimコマンドなどをメモ
+
+## VSCode
+
+- VSCodeの設定について
