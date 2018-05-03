@@ -33,3 +33,5 @@
 
 - https://cli.angular.io/
     - Angular CLI 公式
+- https://github.com/angular/angular-cli/wiki/build
+    - buildについて
