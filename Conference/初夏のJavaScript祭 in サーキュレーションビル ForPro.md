@@ -43,6 +43,9 @@ https://javascript-fes.doorkeeper.jp/events/73314
 
 ## 15:10 PWAで何ができるようになるのか
 
+- スライド
+    - https://speakerdeck.com/tipo159/what-does-pwa-do
+
 - Googleが提唱しているNativeAppに近いWebAppの概念
     - W3Cで標準化はされていない
 
