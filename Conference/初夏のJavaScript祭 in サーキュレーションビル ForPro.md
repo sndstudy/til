@@ -125,7 +125,10 @@ https://javascript-fes.doorkeeper.jp/events/73314
 
 ## 15:50 JavaScript ( 時々 TypeScript ) でゆるやかにはじめる関数型プログラミング ( 仮 )
 
-- JSには関数型ぷろぐらみんぐのエッセンスが多分に含まれている
+- スライド
+    - https://speakerdeck.com/wakamsha/javascript-shi-typescript-de-yuruyakanihazimeruguan-shu-xing-puroguramingu
+
+- JSには関数型プログラミングのエッセンスが多分に含まれている
 
 ### 関数型プログラミングって?
 
