@@ -1,5 +1,8 @@
 # Web Working Group 「PWAに備える3ヶ月」 vol.2
 
+- イベントページ
+    - https://japan-android-group.connpass.com/event/85039/
+
 ## KotlinJSでServiceWorkerを使ってみた
 
 - 良かった点

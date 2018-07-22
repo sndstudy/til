@@ -1,6 +1,7 @@
 # 初夏のJavaScript祭 in サーキュレーションビル ForPro
 
-https://javascript-fes.doorkeeper.jp/events/73314
+- イベントページ
+    - https://javascript-fes.doorkeeper.jp/events/73314
 
 ## 14:50 Firebaseを利用したフロントエンド開発
 

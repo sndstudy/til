@@ -1,5 +1,8 @@
 # Web Working Group 「PWAに備える３ヶ月」 vol.1
 
+- イベントページ
+    - https://japan-android-group.connpass.com/event/82299/
+
 ## 「Progressive Web Apps: WebのInstallabilityのおさらい」
 
 - Webに足りなかったもの
