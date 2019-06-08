@@ -1,0 +1,24 @@
+# Docker コンテナライフサイクル
+
+- createdステータス
+  - コンテナがない状態から作成
+  - `docker create --name [コンテナ名] -it [イメージ名] [使用するシェル]`
+  - `docker create --name status-test -it alpine /bin/sh`
+  - `-it`で双方向に操作するようにできるオプション指定(フォアグラウンドで実行させたい時)
+- runningステータス
+  - コンテナが実行している時のステータス
+  - `docker start [コンテナ名]`で実行
+- Pausedステータス
+  - コンテナが一時停止されている状態
+  - `docker pause [コンテナ名]`
+  - `docker unpause [コンテナ名]`で一時停止を解除できる
+- Exitedステータス
+  - コンテナが停止している状態(コンテナ自体は残っている)
+  - `docker stop [コンテナ名]`
+- Removingステータス
+  - コンテナが削除されている状態のステータス
+- Restartingステータス
+  - コンテナの再起動
+  - ExitedステータスからRunningステータスに遷移する
+- Deadステータス
+  - 強制削除しないといけない

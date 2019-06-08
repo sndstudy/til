@@ -15,7 +15,7 @@
         - 任意の名前を付けることができる
     - コマンド例
         - `docker-machine create --driver virtualbox default`
-- Dockerホストの接続
+- Dockerホストのアクティブ化
      - `docker-machine env [接続したいホスト名]`
      - 接続するための設定コマンドが表示されるのでそのコマンドを打つと接続できる
      - コマンド例
@@ -31,3 +31,5 @@
      - 切断するための設定コマンドが表示されるのでそのコマンドを打つと切断できる 
 - Dockerホストの削除
     - `docker-machine rm [削除したいホスト名]`
+- Dockerホストへの接続(ssh)
+  - `docker-machine ssh [ホスト名]`
