@@ -10,3 +10,8 @@
 - https://qiita.com/k_7016/items/d1e6a5eb934aaf667739
 - https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f
 - https://qiita.com/uehaj/items/99f7cd014e2c0fa1fc4e
+
+## メモ
+
+- `useCallback`は不要な関数生成を防ぐ
+  - 配列に指定した値が変更した時に関数生成されるイメージ
